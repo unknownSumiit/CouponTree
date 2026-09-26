@@ -1,0 +1,9 @@
+{
+  "name": "CouponTree",
+  "short_name": "CouponTree",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fbf4",
+  "theme_color": "#2f7d32",
+  "icons": []
+}
